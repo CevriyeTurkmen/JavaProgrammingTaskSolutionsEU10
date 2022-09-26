@@ -14,6 +14,7 @@ public class CharacterIdentity {
         }else{
             result = "Special Character";
         }
+        System.out.println(result);
 
 
     }
