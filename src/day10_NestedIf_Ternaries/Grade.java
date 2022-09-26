@@ -29,7 +29,7 @@ public class Grade {
         }
 
         System.out.println(grade);
-
+        System.out.println(result);
 
     }
 
