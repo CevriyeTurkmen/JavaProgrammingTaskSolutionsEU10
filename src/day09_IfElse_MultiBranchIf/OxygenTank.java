@@ -18,8 +18,9 @@ public class OxygenTank {
         }else{
             result = "Be careful now you at 50%";
         }
-
+        System.out.println("result = " + result);
     }
+
 
 }
 
